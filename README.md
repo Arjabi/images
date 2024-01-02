@@ -27,7 +27,8 @@
 ![02 sunset-light](https://github.com/Arjabi/images/assets/155407044/c17492d1-09b3-450a-9193-fdfd791cfba7)
 ![01 sun-light](https://github.com/Arjabi/images/assets/155407044/40059730-777f-4292-8a47-d6274d791a86)
 
-![humidity](https://github.com/Arjabi/images/assets/155407044/af765d09-2e97-4813-8a1d-8c35cb40470a)
-![wind](https://github.com/Arjabi/images/assets/155407044/154bafac-9c70-4ab2-b9b0-e657708814d7)
+![humidity](https://github.com/Arjabi/images/assets/155407044/2c4b6711-1a2d-4406-a403-5da84de3bb6d)
+![wind](https://github.com/Arjabi/images/assets/155407044/bb4d8189-3b75-4bed-993f-e927c7b6c1ed)
+
 
 
